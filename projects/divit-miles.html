@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>document.documentElement.classList.add(/(?:^|;\s*)joe_portfolio_access=1(?:;|$)/.test(document.cookie) ? "access-granted" : "access-pending");</script>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>divit: Miles Conversion Journey · Joe Chan</title>
+    <meta
+      name="description"
+      content="Case study: designing account linking and miles conversion in the divit app. Reported outcomes across divit initiatives included 75% more member sign-ups and 95% usability-test satisfaction."
+    />
+    <link rel="icon" href="../assets/img/logo-j.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600&family=Instrument+Serif:ital@0;1&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/css/access.css" />
+    <link rel="stylesheet" href="../assets/css/project-lock.css" />
+    <script src="../assets/js/project-lock.js"></script>
+    <script src="../assets/js/access.js" defer></script>
+  </head>
+  <body>
+    <header class="site-nav">
+      <div class="container nav-inner">
+        <div class="nav-left">
+          <a href="../index.html">home</a>
+          <a href="../index.html#work">work</a>
+          <a href="../index.html#about">about</a>
+        </div>
+        <a class="nav-hello" href="../index.html" aria-label="Joe's Portfolio — Home">
+          <span aria-hidden="true">J</span><span aria-hidden="true">O</span><span aria-hidden="true">E</span><span aria-hidden="true">'</span><span aria-hidden="true">S</span
+          ><i class="nav-word-gap" aria-hidden="true"></i><span aria-hidden="true">P</span><span aria-hidden="true">O</span><span aria-hidden="true">R</span
+          ><span aria-hidden="true">T</span><span aria-hidden="true">F</span><span aria-hidden="true">O</span><span aria-hidden="true">L</span><span aria-hidden="true">I</span
+          ><span aria-hidden="true">O</span>
+        </a>
+        <div class="nav-right">
+          <a href="../cv.html">cv</a>
+          <a href="mailto:joechanwainam@gmail.com">contact</a>
+        </div>
+      </div>
+    </header>
+
+    <main data-surface="light">
+      <section class="case-hero">
+        <div class="container">
+          <span class="case-kicker">divit · Fintech · Product experience</span>
+          <h1 class="case-title">Making miles conversion easier to follow.</h1>
+          <p class="case-intro">
+            divit lets members turn rewards from everyday payments into Asia Miles. I
+            designed the in-app journey as the UX/UI Designer, covering account
+            linking, error recovery, conversion and trip goals.
+          </p>
+          <div class="case-meta">
+            <div>
+              <span class="meta-label">Role</span>
+              <p>UX/UI Designer: research, product flows, UI, testing</p>
+            </div>
+            <div>
+              <span class="meta-label">Duration</span>
+              <p>6 weeks · 3 agile sprints</p>
+            </div>
+            <div>
+              <span class="meta-label">Scope</span>
+              <p>Account linking · conversion · recovery</p>
+            </div>
+            <div>
+              <span class="meta-label">Release</span>
+              <p>50+ product states · reusable components</p>
+            </div>
+          </div>
+          <a class="flow-library-link" href="flows.html?case=divit-miles">
+            <span>Explore the screen-flow library</span>
+            <span aria-hidden="true">View flow →</span>
+          </a>
+        </div>
+      </section>
+
+      <section class="case-section">
+        <div class="container">
+          <h2 class="reveal">The problem</h2>
+          <div class="case-body reveal">
+            <p>
+              Members needed to understand their balance and exchange terms before
+              converting miles. They also had to distinguish divit miles from
+              converted miles, link the right account and recover from errors.
+              Confusion at any of these steps could lead them to abandon the
+              conversion.
+            </p>
+            <p class="case-quote">
+              The journey needed to explain the transfer, let members change their
+              choices until confirmation and keep the process inside divit.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="case-section case-section--flush">
+        <div class="container">
+          <h2 class="reveal">The process</h2>
+          <div class="case-body reveal">
+            <h3>Research &amp; discovery</h3>
+            <ul>
+              <li>
+                Compared American Express, HSBC and Standard Chartered to see
+                how established products explain linking and conversion
+              </li>
+              <li>
+                Used Hotjar heatmaps to identify where existing journeys lost
+                attention or created hesitation
+              </li>
+              <li>
+                Traced the highest-risk moments across sign-up, account linking,
+                amount selection, confirmation and recovery
+              </li>
+            </ul>
+            <h3>Strategy</h3>
+            <ul>
+              <li>
+                Supported activation by showing members the source balance,
+                destination and conversion result throughout the journey
+              </li>
+              <li>
+                Prioritised one contained in-app journey and a clear explanation
+                of the two mile types
+              </li>
+            </ul>
+            <h3>Working with Cathay Pacific's marketing team</h3>
+            <p>
+              I worked closely with Cathay Pacific's marketing team on the visual
+              branding, copywriting tone and Asia Miles conversion details. We agreed
+              how the partnership and conversion process should appear to members. I
+              used that guidance across account linking, amount selection, review,
+              confirmation and error recovery, so the screens met the marketing
+              requirements and helped members understand each step.
+            </p>
+            <h3>Design</h3>
+            <ul>
+              <li>
+                Mapped new-member registration, Asia Miles linking, conversion
+                and failure-recovery states
+              </li>
+              <li>
+                Compared three wireframe directions and selected the structure
+                that could scale across more states
+              </li>
+              <li>
+                Built 50+ product states covering the core journey and edge
+                cases, backed by a reusable component library
+              </li>
+            </ul>
+            <h3>Testing &amp; iteration</h3>
+            <ul>
+              <li>
+                Tested with five participants aged 23–48; average task
+                completion was 6m 32s and satisfaction reached 95%
+              </li>
+              <li>
+                Testing exposed confusion between "divit miles" and "converted
+                miles"; clearer labels and a focused explanation resolved it
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="case-section case-section--flush">
+        <div class="container">
+          <h2 class="reveal">The solution</h2>
+          <div class="case-body reveal">
+            <ul>
+              <li>
+                <strong>In-app conversion</strong> keeps Asia Miles account linking and conversion inside divit.
+              </li>
+              <li>
+                <strong>A review before confirmation</strong> lets members check the source balance, choose an amount and review the converted
+ result.
+              </li>
+              <li>
+                <strong>Trip goals</strong> give members a destination to work towards and a reason to return to their points
+ balance.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section
+        class="design-snapshot"
+        aria-labelledby="miles-snapshot-title"
+        data-surface="dark"
+        style="--snapshot-signal: #f2b82d"
+      >
+        <div class="snapshot-inner">
+          <div class="snapshot-head reveal">
+            <h2 id="miles-snapshot-title">Checking the details before a transfer.</h2>
+            <p>
+              Members can see their balance, destination and converted value
+              throughout the journey and check them before transferring.
+            </p>
+          </div>
+          <div class="snapshot-board reveal">
+            <figure class="snapshot-frame">
+              <div class="snapshot-media">
+                <img
+                  width="2400"
+                  height="1350"
+                  src="../assets/img/thumb-mile-conversion.jpg"
+                  alt="divit miles conversion experience shown across responsive devices"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+              <figcaption data-mark="A">
+                <span><strong>Consistent desktop and mobile screens.</strong> The rewards balance and conversion action keep the same hierarchy on desktop and mobile.</span>
+              </figcaption>
+            </figure>
+            <figure class="snapshot-frame snapshot-frame--detail">
+              <div class="snapshot-media">
+                <img
+                  width="1200"
+                  height="800"
+                  src="../assets/img/divit-thumbnails.png"
+                  alt="divit member states separating balance, earned miles and converted miles"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </div>
+              <figcaption data-mark="B">
+                <span><strong>Balances before conversion.</strong> Total, earned and converted miles are shown separately, so members know what will transfer and what will remain.</span>
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="case-section case-section--flush">
+        <div class="container">
+          <h2 class="reveal">Reported outcomes across divit initiatives</h2>
+          <div class="case-body reveal">
+            <div class="outcome-grid">
+              <div class="outcome-card">
+                <div class="stat-value">+75%</div>
+                <p>Member sign-ups after launch</p>
+              </div>
+              <div class="outcome-card">
+                <div class="stat-value">+30%</div>
+                <p>Merchant sign-ups reported</p>
+              </div>
+              <div class="outcome-card">
+                <div class="stat-value">95%</div>
+                <p>Test satisfaction across five participants</p>
+              </div>
+              <div class="outcome-card">
+                <div class="stat-value">+15%</div>
+                <p>Increase in reported marketing exposure</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="case-next">
+        <span class="label">Next case study</span>
+        <a href="divit-website.html">divit: Corporate website revamp →</a>
+      </section>
+    </main>
+
+    <footer class="contact">
+      <div class="contact-dots" aria-hidden="true">
+        <span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
+      </div>
+      <div class="seeyou" aria-hidden="true">
+        <span class="s1">S</span><span class="s2">E</span><span class="s3">E</span><span class="s4">Y</span><span class="s5">O</span><span class="s6">U</span>
+      </div>
+      <div class="container">
+        <div class="contact-cols">
+          <div>
+            <h2 class="label">Thank you</h2>
+            <p class="contact-msg">
+              For questions, project enquiries or collaboration, email
+              <a href="mailto:joechanwainam@gmail.com">joechanwainam@gmail.com</a>
+            </p>
+          </div>
+          <div class="contact-social">
+            <h2 class="label">Keep in touch</h2>
+            <a href="https://www.linkedin.com/in/joechanuiux" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://medium.com/@joechanwainam" target="_blank" rel="noopener">Medium</a>
+          </div>
+        </div>
+        <div class="footer-meta">
+          <span>All rights reserved · <span id="year">2026</span> · Joe Chan</span>
+          <span>Full portfolio with NDA work on request</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" integrity="sha384-g4NTh/Iv5PPU4xPyhEWqPcwtNXOvdaDI8LLnyYfyNZOjKJeYQyjzQ9X5275eBjpt" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" integrity="sha384-Z3REaz79l2IaAZqJsSABtTbhjgOUYyV3p90XNnAPCSHg3EMTz1fouunq9WZRtj3d" crossorigin="anonymous"></script>
+    <script src="../assets/js/main.js"></script>
+  </body>
+</html>
