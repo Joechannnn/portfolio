@@ -1182,7 +1182,7 @@
   "bba": {
     "title": "BigBigAir Aura Reading",
     "kicker": "Scan to Report · Input and outcomes",
-    "intro": "As UX Designer at Kolorbox Ltd, I designed BigBigAir’s aura reading service flows. The palm scanner and green report show the service. A separate visual concept explores a new report design.",
+    "intro": "As UX Designer at Kolorbox Ltd, I manage online service projects for practitioners on 好大個玄機, from requirements and UX/UI design through developer handoff and launch. I also designed BigBigAir’s aura reading service flows, shown here. The palm scanner and green report show the service. A separate visual concept explores a new report design.",
     "back": "bba.html",
     "accent": "#6d63d8",
     "coverage": "1 input + 1 report + 1 visual concept",

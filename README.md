@@ -8,6 +8,8 @@ I'm a designer based in Hong Kong. My work covers customer-facing apps and the i
 
 As UX Designer at Kolorbox Ltd, I lead UX/UI design across BigBigAir's websites, digital services and internal business tools, including edmondpoon.com. Kolorbox provides software development and technical support for its subsidiary BigBigAir. My work covers customer journeys, content, commerce and specialist services. This portfolio also includes work in fintech, fitness and retail.
 
+On 好大個玄機, I manage a portfolio of online service projects for different practitioners. I gather their requirements, design service flows and screens, and coordinate developer handoff and launch.
+
 ## Selected work
 
 - [divit Miles Conversion](projects/divit-miles.html): UX for account linking and miles conversion, including work with Cathay Pacific's marketing team on visual branding, copy tone and Asia Miles conversion details.
