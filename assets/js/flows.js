@@ -5,7 +5,7 @@
   "inventory": {
     "title": "Inventory in View",
     "kicker": "Operations · From records to daily work",
-    "intro": "These recreations show the finished inventory GUI and its reference structure. The operational values, products, suppliers and identifiers are fictional portfolio examples.",
+    "intro": "As UX Designer at Kolorbox Ltd, I designed BigBigAir’s inventory GUI for allocating stock to pickup, shipping and market events. These recreations show the finished inventory GUI and its reference structure. The operational values, products, suppliers and identifiers are fictional portfolio examples.",
     "back": "inventory.html",
     "accent": "#457aa6",
     "coverage": "3 interface views + 1 reference recreation",
@@ -73,7 +73,7 @@
   "crm": {
     "title": "好大個網 CRM",
     "kicker": "Audience to Action · Decision system",
-    "intro": "As UX Designer at Kolorbox Ltd, I designed BigBigAir’s CRM prototype. These screens cover audience assessment, member profiles and campaign preparation. Intermediate builder steps and the launch outcome are not included.",
+    "intro": "As UX Designer at Kolorbox Ltd, I designed BigBigAir’s CRM prototype for audience segmentation and member groups. My wider CRM design work covered subscription payment and renewal tracking. These screens cover audience assessment, member profiles and campaign preparation. Intermediate builder steps and the launch outcome are not included.",
     "back": "crm.html",
     "accent": "#c80815",
     "coverage": "6 interface captures",
