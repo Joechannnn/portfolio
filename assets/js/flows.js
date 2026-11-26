@@ -357,7 +357,7 @@
   "vfit24": {
     "title": "V-FIT24",
     "kicker": "Access, time, settle · Member and operator journeys",
-    "intro": "Follow a member from registration to a recorded gym session, then see how staff handle access failures and disputed charges. Select a decision to open its recovery path.",
+    "intro": "As UX/UI Designer / Product Manager, I defined Minutes Pay’s flows and designed its screens around the gym owner’s daily operations. I confirmed requirements with the owner and stakeholders, coordinated developer handoff and implementation, ran UAT, then handled marketing promotion and launch. Follow a member from registration to a recorded gym session, then see how staff handle access failures and disputed charges. Select a decision to open its recovery path.",
     "back": "vfit24.html",
     "accent": "#08b9df",
     "coverage": "3 core journeys · 5 recovery paths · 1 context artifact",

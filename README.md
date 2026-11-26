@@ -16,7 +16,7 @@ On 好大個玄機, I manage a portfolio of online service projects for differen
 - [edmondpoon.com](projects/edmondpoon.html): Programme discovery and live participation, with routes into commerce and specialist services.
 - [Audience to Action](projects/crm.html): A CRM prototype for audience segmentation and campaign decisions, covering the product model, UX/UI and developer handoff.
 - [Inventory in View](projects/inventory.html): Requirements, workflow, GUI design and front-end implementation for stock and replenishment operations.
-- [V-FIT24](projects/vfit24.html): Product requirements, business rules and UX/UI for a pay-per-minute gym service, including member, customer-service and management tools.
+- [V-FIT24](projects/vfit24.html): UX/UI and project management for Minutes Pay, a pay-per-minute gym service with member, customer-service and management tools. The work covered operational requirements and business rules, requirements review, developer coordination, UAT, marketing promotion and launch.
 
 ## Run locally
 
