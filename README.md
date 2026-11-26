@@ -6,7 +6,7 @@ I'm a designer based in Hong Kong. My work covers customer-facing apps and the i
 
 [View portfolio](https://joechannnn.github.io/portfolio/) · [Read CV](https://joechannnn.github.io/portfolio/cv.html)
 
-At edmondpoon.com, I design customer journeys and business tools for content, commerce and specialist services. This portfolio also includes work in fintech, fitness and retail.
+As UX Designer at Kolorbox Ltd, I lead UX/UI design across BigBigAir's websites, digital services and internal business tools, including edmondpoon.com. Kolorbox provides software development and technical support for its subsidiary BigBigAir. My work covers customer journeys, content, commerce and specialist services. This portfolio also includes work in fintech, fitness and retail.
 
 ## Selected work
 

@@ -73,7 +73,7 @@
   "crm": {
     "title": "好大個網 CRM",
     "kicker": "Audience to Action · Decision system",
-    "intro": "Screens of audience assessment, member profiles and campaign preparation. Intermediate builder steps and the launch outcome are not included.",
+    "intro": "As UX Designer at Kolorbox Ltd, I designed BigBigAir’s CRM prototype. These screens cover audience assessment, member profiles and campaign preparation. Intermediate builder steps and the launch outcome are not included.",
     "back": "crm.html",
     "accent": "#c80815",
     "coverage": "6 interface captures",
@@ -287,7 +287,7 @@
   "edmondpoon": {
     "title": "edmondpoon.com",
     "kicker": "Horror Online & Beyond · Platform reach",
-    "intro": "The archive starts with Horror Online, followed by programme, participation and commerce materials from the wider platform. Episode, chat and service screens can be added when available.",
+    "intro": "As UX Designer at Kolorbox Ltd, I lead UX/UI design across BigBigAir’s websites, digital services and internal tools, including edmondpoon.com. The archive starts with Horror Online, followed by programme, participation and commerce materials from the wider platform. Episode, chat and service screens can be added when available.",
     "back": "edmondpoon.html",
     "accent": "#be1522",
     "coverage": "5 source assets",
@@ -1182,7 +1182,7 @@
   "bba": {
     "title": "BigBigAir Aura Reading",
     "kicker": "Scan to Report · Input and outcomes",
-    "intro": "The palm scanner and green report show the service. A separate visual concept explores a new report design.",
+    "intro": "As UX Designer at Kolorbox Ltd, I designed BigBigAir’s aura reading service flows. The palm scanner and green report show the service. A separate visual concept explores a new report design.",
     "back": "bba.html",
     "accent": "#6d63d8",
     "coverage": "1 input + 1 report + 1 visual concept",
